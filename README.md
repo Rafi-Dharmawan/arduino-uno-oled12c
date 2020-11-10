@@ -1,4 +1,4 @@
-# arduino-uno-oled12c
+# learn-how-to-use-oled12c
 
 Heloo everyone..
 
